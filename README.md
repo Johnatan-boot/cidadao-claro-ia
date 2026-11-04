@@ -7,7 +7,7 @@
 > **Foco:** GovTech, Inteligência Artificial Responsável e Experiência do Cidadão.
 
 ---
-https://cidadao-claro-ia.onrender.com/
+"🔗 Teste o projeto online agora mesmo: Acesse o CidadãoClaro IA na nuvem https://cidadao-claro-ia.onrender.com/"
 
 ## 📌 1. O Problema Real
 
