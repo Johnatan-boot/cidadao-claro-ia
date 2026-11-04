@@ -1,3 +1,5 @@
+<img width="1366" height="768" alt="Captura de tela 2026-11-04 161937" src="https://github.com/user-attachments/assets/97f0178e-4c7d-46e9-bd0f-b3204bb5a327" />
+<img width="1366" height="768" alt="Captura de tela 2026-11-04 161931" src="https://github.com/user-attachments/assets/3650f2d0-9c77-4749-913c-b74d283c0ac8" />
 # 🏛️ CidadãoClaro IA — Transparência Ativa e Linguagem Simples no Setor Público
 
 > **Projeto desenvolvido para o Processo Seletivo Futures Trainee Softplan**  
