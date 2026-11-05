@@ -1,7 +1,7 @@
 # 🏛️ CidadãoClaro IA — Transparência Ativa no Setor Público
 
 > 🔗 **Aplicação rodando online no Render:** [[https://cidadao-claro-ia.onrender.com](https://cidadao-claro-ia.onrender.com/)](https://cidadao-claro-ia.onrender.com)  
-> 📹 **Demonstração em Vídeo (1 min):** [Link do seu vídeo do YouTube/Loom ou arquivo no GitHub]
+> 📹 **Demonstração em Vídeo (1 min):** [[Link do seu vídeo do YouTube/Loom ou arquivo no GitHub](https://youtu.be/1t4mlC6vFeY)]
 
 ---
 <img width="1366" height="768" alt="Captura de tela 2026-11-04 162311" src="https://github.com/user-attachments/assets/700b5cad-583e-47b5-bc1f-024f166d7426" />
